@@ -1,0 +1,6 @@
+output/Det_8.png
+None
+True
+pr11w9231
+0
+Not

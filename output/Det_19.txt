@@ -1,0 +1,6 @@
+output/Det_19.png
+None
+True
+hp15a0194
+0
+Not

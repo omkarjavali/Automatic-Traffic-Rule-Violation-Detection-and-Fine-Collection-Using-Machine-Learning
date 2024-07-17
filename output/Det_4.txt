@@ -1,0 +1,6 @@
+output/Det_4.png
+None
+True
+None
+0
+Not

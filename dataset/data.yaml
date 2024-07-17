@@ -1,0 +1,5 @@
+train: E:/current work/newfl/yolov5/dataset/train/images/
+val: E:/current work/newfl/yolov5/dataset/valid/images/
+
+nc: 4
+names: ["Helmet", "No Helmet", "Rider" , "LP"]
