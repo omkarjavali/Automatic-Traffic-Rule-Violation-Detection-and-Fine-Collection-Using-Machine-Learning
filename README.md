@@ -25,7 +25,7 @@ The project focuses on leveraging machine learning algorithms to detect traffic 
 - YOLOv5 and OpenCV (for helmet detection)
 - OCR and ALPR API (for Licence Plate Recognition)
 - Tkinker (for frontend)
-- Yagmail (for sending challan for the violator)
+- Yagmail (for sending challan to the violator)
 
 ## Installation
 1. Clone the repository
